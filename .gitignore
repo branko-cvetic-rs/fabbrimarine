@@ -18,3 +18,5 @@ Thumbs.db
 *.tmp
 *.log
 
+# External content
+/external
